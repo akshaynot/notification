@@ -46,3 +46,6 @@ traitlets==5.10.0
 tzdata==2024.1
 urllib3==2.2.1
 wcwidth==0.2.6
+gunicorn
+whitenoise
+psycopg2-binary
